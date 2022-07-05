@@ -1,0 +1,4 @@
+variables:
+- team: test-jenkins-jcasc
+- admin-user: swares-admin
+- manager-user: swares
